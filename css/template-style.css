@@ -466,7 +466,7 @@ aside.aside-left {
   color: #002633 !important;
 }
 
-.text-Brown * {
+.text-Brown *, .text-Brown {
   color: #c25903 !important;
 }
 
