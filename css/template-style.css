@@ -465,7 +465,9 @@ aside.aside-left {
 .text-dark, .text-dark *, .primary-color-dark .text-primary, .primary-color-dark .text-primary * {
   color: #002633 !important;
 }
-
+.text-Brown *, .text-Brown {
+  color: #c25903 !important;
+}
 .text-white-hover, .text-primary-hover, .text-dark-hover {
   transition: color 0.20s linear 0s;
   -o-transition: color 0.20s linear 0s;
